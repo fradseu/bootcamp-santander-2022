@@ -8,3 +8,8 @@ Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface
 * [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 ## 🚀 Let's code! 🚀
+
+
+20:50 21/06/2022
+#Olá, cheguei até etapa, e agora é só alegria con o InstaGato 😻.
+
